@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["GroupDatabaseBridge","Bridge between `BloomDatabase` and `BloomGroupDatabase`."]]});

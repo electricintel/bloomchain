@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Position","Uniquely identifies bloom position."]]});

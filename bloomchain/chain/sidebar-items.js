@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BloomChain","Prepares all bloom database operations."]]});

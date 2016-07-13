@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["manager","Simplifies working with bloom indexes."],["position",""]],"struct":[["Position","Uniquely identifies bloom position."]]});

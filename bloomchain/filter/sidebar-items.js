@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Filter","Should be used to filter blocks from `BloomChain`."]]});

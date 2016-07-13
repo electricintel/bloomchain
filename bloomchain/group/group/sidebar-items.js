@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BloomGroup","Group of blooms that are in the same index."]]});
